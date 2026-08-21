@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+FlexThatCall_Output/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

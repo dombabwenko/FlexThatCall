@@ -1,0 +1,5 @@
+openai>=2.8.0
+opencv-python>=4.9.0,<5
+imageio-ffmpeg>=0.5.1,<1
+keyring>=25.0.0,<26
+tkinterdnd2>=0.4.2,<1
